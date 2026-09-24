@@ -1,0 +1,20 @@
+{
+  "schema": "orbi.swiftlet-upstream-lock/v1",
+  "upstream": {
+    "repository": "leonickson1/Swiftlet",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "branch": "main",
+    "commit": "909c04213c9deb369dac0679d0872512cf3ab32e",
+    "commit_date": "2026-09-14T15:18:48Z",
+    "license": "Apache-2.0"
+  },
+  "audit": {
+    "gate": "OSM-00",
+    "status": "FROZEN",
+    "target_platforms": [
+      "windows",
+      "android"
+    ],
+    "production_repo": "ingeniusvictor/orbi-streammoe"
+  }
+}
